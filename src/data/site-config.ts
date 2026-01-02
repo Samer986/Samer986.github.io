@@ -12,7 +12,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Bienvenidos a mi blog personal 👨‍💻',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
-        src: 'blob:https://web.whatsapp.com/ca7e80bd-c02f-4265-8b6d-6a5d91e7911e',
+        src: 'file:///Users/sameryousef/Desktop/WhatsApp%20Image%202025-12-01%20at%204.25.02%20PM.jpeg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
