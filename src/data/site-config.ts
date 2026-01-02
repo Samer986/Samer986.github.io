@@ -25,8 +25,8 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
+            text: 'Certificado',
+            href: 'https://certificate.4geeks.com/e327309f06c6a2693d027856f1412f8c530e8f1c'
         },
         {
             text: 'Github',
@@ -64,7 +64,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Contacto',
                 href: '/contact'
             }
         ]
