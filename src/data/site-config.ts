@@ -1,5 +1,6 @@
 import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
+import post-2 from '../assets/images/post-2.jpg';
+import profileImage from '../assets/images/profile.jpeg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -59,7 +60,7 @@ const siteConfig: SiteConfig = {
         title: 'Hola a todos y bienvenidos a mi portafolio',
         text: "Hola, mi nombre es Samer, soy un desarrollador web especializado en FrontEnd, BackEnd, Bases de datos y Appian. Soy musico, lo cual se ha trasladado a mi manera de trabajr buscando siempre vias creativas para llegar a resultados funcionales y esteticos si lo amerita. Me encanta trabajar en equipo, disfruto intercambiar ideas y ayudar a materializarlas",
         image: {
-            src: hero,
+            src: post-2,
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
