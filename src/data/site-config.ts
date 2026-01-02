@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola, soy Samer Yousef',
-        text: "Desarrollador Full Stack certificado con inglés nivel C1. Especializado en FrontEnd, BackEnd, Bases de datos y Appian. Mi experiencia en música me ha dado una perspectiva única para abordar problemas técnicos de manera creativa y estructurada.",
+        text: "Desarrollador Full Stack certificado. Especializado en FrontEnd, BackEnd, Bases de datos y Appian. Mi experiencia en música me ha dado una perspectiva única para abordar problemas técnicos de manera creativa y estructurada. Te invito a conocerme mas a traves de este sitio web.",
         image: {
             src: post2,
             alt: 'Samer Yousef'
