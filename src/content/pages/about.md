@@ -11,7 +11,7 @@ seo:
 
 ## Samer Yousef – Desarrollador Full Stack
 
-**Saludos!** Soy Samer Yousef, un desarrollador Full Stack residente en Madrid, España. Con formación certificada en desarrollo web y nivel C1 de inglés, combino habilidades técnicas sólidas con una perspectiva creativa única proveniente de mi experiencia como músico.
+**Saludos!** Soy Samer Yousef, un desarrollador Full Stack. Con formación certificada en desarrollo web, combino habilidades técnicas sólidas con una perspectiva creativa única proveniente de mi experiencia como artista.
 
 ## Experiencia Profesional
 
@@ -44,7 +44,7 @@ Gestiono el ciclo de vida completo de proyectos sonoros, actuando como el puente
 
 ## Habilidades Técnicas
 
-Mi experiencia abarca desarrollo Appian, front-end y back-end, utilizando las últimas tecnologías para construir sitios web responsivos y amigables para el usuario. Mi competencia incluye:
+Mi experiencia abarca desarrollo front-end, back-end y Appian, utilizando las últimas tecnologías para construir sitios web responsivos y amigables para el usuario. Mi competencia incluye:
 
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend:** Python, Flask, Node.js, APIs REST
@@ -69,10 +69,6 @@ En el lado del servidor, tengo experiencia con Node.js y sistemas de gestión de
 ## Innovación y Resolución de Problemas
 
 Prospero resolviendo problemas complejos y transformando ideas en sitios web funcionales y elegantes. Ya sea optimizando el rendimiento, implementando nuevas características o solucionando problemas, abordo cada desafío con entusiasmo y compromiso para entregar soluciones de alta calidad.
-
-## Perspectiva Global, Impacto Local
-
-Vivir en Madrid no solo ha influenciado mi apreciación por la naturaleza y la cultura, sino que también ha moldeado mi enfoque hacia el desarrollo web. Entiendo la importancia de crear soluciones digitales que resuenen con audiencias locales mientras mantengo una perspectiva global.
 
 ## Aprendizaje Continuo
 

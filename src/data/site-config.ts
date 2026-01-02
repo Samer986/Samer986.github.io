@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Samer Yousef'
     },
     title: 'Samer Yousef',
-    subtitle: 'Desarrollador Full Stack 👨‍💻',
+    subtitle: '17/04/1998',
     description: 'Desarrollador Full Stack especializado en FrontEnd, BackEnd, Bases de datos y Appian',
     image: {
         src: post2,
