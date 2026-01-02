@@ -8,7 +8,7 @@ seo:
     alt: Samer Yousef
 ---
 
-![Samer Yousef](../../../assets/images/about.jpg)
+
 
 **Nota:** Esta página presenta mi experiencia profesional y habilidades como desarrollador Full Stack.
 
