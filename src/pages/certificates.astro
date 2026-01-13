@@ -6,58 +6,65 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     title="Certificados | Samer Yousef"
     description="Certificaciones profesionales de Samer Yousef"
 >
-    <article class="prose prose-lg mx-auto px-4 py-12 max-w-4xl dark:prose-invert">
-        <h1 class="text-4xl font-bold mb-8">Certificaciones</h1>
+    <div class="max-w-4xl mx-auto px-4 py-12">
+        <h1 class="text-4xl font-bold mb-8">Mis Certificados</h1>
         
-        <section class="mb-12">
-            <h2 class="text-3xl font-semibold mb-4">💻 Desarrollo Full Stack</h2>
-            <div class="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg">
-                <h3 class="text-xl font-medium mb-2">Full Stack Developer</h3>
-                <p class="text-gray-600 dark:text-gray-300 mb-4">4Geeks Academy</p>
+        <div class="space-y-8">
+            <div class="border border-gray-300 dark:border-gray-700 rounded-lg p-6">
+                <h2 class="text-2xl font-semibold mb-3">💻 Full Stack Developer</h2>
+                <p class="text-gray-600 dark:text-gray-300 mb-3">4Geeks Academy</p>
                 <p class="mb-4">
-                    Programa intensivo de desarrollo Full Stack que cubre tecnologías modernas 
-                    incluyendo HTML, CSS, JavaScript, React, Python, Flask, SQL, y más.
+                    Programa intensivo de desarrollo Full Stack cubriendo HTML, CSS, JavaScript, 
+                    React, Python, Flask, SQL y más.
                 </p>
                 <a 
                     href="https://certificate.4geeks.com/e327309f06c6a2693d027856f1412f8c530e8f1c" 
                     target="_blank"
-                    class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded transition-colors"
+                    rel="noopener noreferrer"
+                    class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-6 rounded"
                 >
-                    Ver Certificado →
+                    Ver Certificado
                 </a>
             </div>
-        </section>
 
-        <section class="mb-12">
-            <h2 class="text-3xl font-semibold mb-4">🌍 Idiomas</h2>
-            <div class="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg">
-                <h3 class="text-xl font-medium mb-2">English Certificate</h3>
-                <p class="text-gray-600 dark:text-gray-300 mb-4">EF SET - Nivel A2 (Elementary)</p>
+            <div class="border border-gray-300 dark:border-gray-700 rounded-lg p-6">
+                <h2 class="text-2xl font-semibold mb-3">🌍 English Certificate - A2</h2>
+                <p class="text-gray-600 dark:text-gray-300 mb-3">EF SET - Nivel A2 (Elementary)</p>
                 <p class="mb-4">
-                    Certificación de inglés nivel A2 (elemental) según el Marco Común Europeo de 
-                    Referencia para las Lenguas. Este nivel demuestra capacidad para comunicarse 
-                    en situaciones cotidianas y comprender información básica en inglés.
+                    Certificación de inglés nivel A2 según el Marco Común Europeo de Referencia.
                 </p>
                 <a 
-                    href="https://cert.efset.org/en/sZB9be" 
+                    href="https://cert.efset.org/sZB9be" 
                     target="_blank"
-                    class="inline-block bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded transition-colors"
+                    rel="noopener noreferrer"
+                    class="inline-block bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-6 rounded"
                 >
-                    Ver Certificado →
+                    Ver Certificado
                 </a>
             </div>
-        </section>
 
-        <section>
-            <h2 class="text-3xl font-semibold mb-4">🎵 Background Musical</h2>
-            <div class="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg">
+            <div class="border border-gray-300 dark:border-gray-700 rounded-lg p-6">
+                <h2 class="text-2xl font-semibold mb-3">🎵 Productor Musical</h2>
                 <p class="mb-4">
-                    Además de mi formación técnica, cuento con una sólida experiencia como 
-                    productor musical freelance. Esta perspectiva creativa me permite abordar 
-                    los desafíos de desarrollo de software con un enfoque único, combinando 
-                    la precisión técnica con la creatividad y el pensamiento lateral.
+                    Experiencia como productor musical freelance, combinando creatividad técnica 
+                    con precisión en el manejo de software de audio profesional.
                 </p>
             </div>
-        </section>
-    </article>
+        </div>
+
+        <div class="mt-12 text-center">
+            <a 
+                href="/about" 
+                class="inline-block bg-gray-600 hover:bg-gray-700 text-white font-medium py-3 px-6 rounded mr-4"
+            >
+                Ver Experiencia
+            </a>
+            <a 
+                href="/contact" 
+                class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded"
+            >
+                Contáctame
+            </a>
+        </div>
+    </div>
 </BaseLayout>
