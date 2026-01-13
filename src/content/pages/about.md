@@ -26,21 +26,21 @@ En el lado del servidor, tengo experiencia con Node.js y sistemas de gestión de
 
 ### 🎓 Full Stack Software Developer
 **4Geeks Academy**
-* Programa intensivo de 360 horas que cubre tecnologías modernas de desarrollo web.
-* Certificado emitido el 17 de noviembre de 2025.
+* Programa intensivo de 360 horas completado con éxito.
+* Certificado emitido el 17 de noviembre de 2025 por 4Geeks Latam.
 * [Ver Certificado Online](https://certificate.4geeks.com/e327309f06c6a2693d027856f1412f8c530e8f1c)
 
-![Certificado Full Stack Software Developer 4Geeks](/images/4geeks.jpg)
-*(Certificación de 4Geeks Academy)*
+![Certificado Full Stack Software Developer 4Geeks](../../assets/images/4geeks.jpg)
+*(Certificación oficial de 4Geeks Academy)*
 
 ### 🌍 English Certificate - A2 Elementary
 **EF SET**
-* Nivel A2 (40/100) según el Marco Común Europeo de Referencia.
-* Capacidad para comunicarse en situaciones cotidianas y comprender información básica.
+* Nivel obtenido: A2 Elementary con una puntuación de 40/100.
+* Demuestra capacidad para comprender información básica y comunicarse en situaciones cotidianas.
 * [Ver Certificado Online](https://cert.efset.org/en/sZB9be)
 
-![Certificado Inglés EF SET A2](/images/ingles.jpg)
-*(Certificación de Inglés EF SET)*
+![Certificado Inglés EF SET A2](../../assets/images/ingles.jpg)
+*(Certificación de nivel de inglés EF SET)*
 
 ## Innovación y Resolución de Problemas
 
