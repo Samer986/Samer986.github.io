@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+    title="Contacto | Samer Yousef"
+    description="Ponte en contacto con Samer Yousef"
+>
+    <div class="max-w-2xl mx-auto px-4 py-12">
+        <h1 class="text-4xl font-bold mb-4">Contacto</h1>
+        <p class="text-gray-600 dark:text-gray-300 mb-8">
+            ¡Gracias por venir! Si tienes alguna pregunta, sugerencia o simplemente quieres compartir tu opinión, estoy aquí para ayudarte.
+        </p>
+
+        <form 
+            action="https://formspree.io/f/xaqqyabk" 
+            method="POST"
+            class="space-y-6"
+        >
+            <div>
+                <label for="name" class="block text-sm font-medium mb-2">
+                    Nombre
+                </label>
+                <input 
+                    type="text" 
+                    id="name" 
+                    name="name" 
+                    required
+                    class="w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 dark:bg-gray-800"
+                />
+            </div>
+
+            <div>
+                <label for="email" class="block text-sm font-medium mb-2">
+                    Email
+                </label>
+                <input 
+                    type="email" 
+                    id="email" 
+                    name="email" 
+                    required
+                    class="w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 dark:bg-gray-800"
+                />
+            </div>
+
+            <div>
+                <label for="message" class="block text-sm font-medium mb-2">
+                    Mensaje
+                </label>
+                <textarea 
+                    id="message" 
+                    name="message" 
+                    rows="6" 
+                    required
+                    class="w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 dark:bg-gray-800"
+                ></textarea>
+            </div>
+
+            <button 
+                type="submit"
+                class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition-colors"
+            >
+                Enviar Mensaje
+            </button>
+        </form>
+    </div>
+</BaseLayout>
