@@ -30,8 +30,8 @@ En el lado del servidor, tengo experiencia con Node.js y sistemas de gestión de
 * Certificado emitido el 17 de noviembre de 2025.
 * [Ver Certificado Online](https://certificate.4geeks.com/e327309f06c6a2693d027856f1412f8c530e8f1c)
 
-![Certificado Full Stack Software Developer 4Geeks](/public/images/certificado-4geeks.jpg)
-*(Imagen del certificado de 4Geeks Academy)*
+![Certificado Full Stack Software Developer 4Geeks](/images/4geeks.jpg)
+*(Certificación de 4Geeks Academy)*
 
 ### 🌍 English Certificate - A2 Elementary
 **EF SET**
@@ -39,8 +39,8 @@ En el lado del servidor, tengo experiencia con Node.js y sistemas de gestión de
 * Capacidad para comunicarse en situaciones cotidianas y comprender información básica.
 * [Ver Certificado Online](https://cert.efset.org/en/sZB9be)
 
-![Certificado Inglés EF SET A2](/public/images/certificado-ingles.jpg)
-*(Imagen del certificado EF SET)*
+![Certificado Inglés EF SET A2](/images/ingles.jpg)
+*(Certificación de Inglés EF SET)*
 
 ## Innovación y Resolución de Problemas
 
